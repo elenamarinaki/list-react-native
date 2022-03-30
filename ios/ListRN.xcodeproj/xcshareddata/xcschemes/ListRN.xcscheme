@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ListNative.app"
-               BlueprintName = "ListNative"
-               ReferencedContainer = "container:ListNative.xcodeproj">
+               BuildableName = "ListRN.app"
+               BlueprintName = "ListRN"
+               ReferencedContainer = "container:ListRN.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ListNativeTests.xctest"
-               BlueprintName = "ListNativeTests"
-               ReferencedContainer = "container:ListNative.xcodeproj">
+               BuildableName = "ListRNTests.xctest"
+               BlueprintName = "ListRNTests"
+               ReferencedContainer = "container:ListRN.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ListNative.app"
-            BlueprintName = "ListNative"
-            ReferencedContainer = "container:ListNative.xcodeproj">
+            BuildableName = "ListRN.app"
+            BlueprintName = "ListRN"
+            ReferencedContainer = "container:ListRN.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ListNative.app"
-            BlueprintName = "ListNative"
-            ReferencedContainer = "container:ListNative.xcodeproj">
+            BuildableName = "ListRN.app"
+            BlueprintName = "ListRN"
+            ReferencedContainer = "container:ListRN.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
