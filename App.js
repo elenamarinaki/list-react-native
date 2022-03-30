@@ -4,7 +4,7 @@ import {View, Text, StyleSheet} from 'react-native';
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text>This is a sample text</Text>
+      <Text style={styles.test}>This is a sample text</Text>
     </View>
   );
 };
@@ -14,6 +14,10 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+  },
+  test: {
+    color: 'darkslateblue',
+    fontSize: 30,
   },
 });
 
