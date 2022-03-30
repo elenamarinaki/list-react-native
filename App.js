@@ -1,10 +1,11 @@
 import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
+import {Header} from './components/Header';
 
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.test}>This is a sample text</Text>
+      <Header title="Shopping List" />
     </View>
   );
 };
@@ -12,12 +13,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  test: {
-    color: 'darkslateblue',
-    fontSize: 30,
+    paddingTop: 60,
   },
 });
 
