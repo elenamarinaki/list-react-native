@@ -16,7 +16,7 @@ const App = () => {
   return (
     <NativeBaseProvider>
       <View style={styles.container}>
-        <Header title="Shopping List" />
+        <Header title="Task List" />
         <FlatList
           data={items}
           renderItem={({item}) => <ListItem item={item} />}
